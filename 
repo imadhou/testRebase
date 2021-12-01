@@ -1,0 +1,16 @@
+test1
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch develop
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   test1.txt
+#	new file:   test2.txt
+#	new file:   test3.txt
+#	new file:   test4.txt
+#
+ :w
+
